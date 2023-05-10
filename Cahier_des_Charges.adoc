@@ -6,7 +6,7 @@ Date : 10/05/2023
 
 Équipe : Yankam -- Sale -- Fligitter
 
-Projet : SAE S2.01 - S2.05 Dayly Bank
+Projet : SAE S2.01 - S2.05 Daily Bank
 
 Sommaire :
 1. Présentation du sujet
@@ -41,13 +41,18 @@ Dans la version existante (V0), un chef d’agence peut :
 La version initiale semble assez limitée mais elle contient des fonctionnalités nécessaires.
 Malgré tout certains problèmes sautent aux yeux tels que l'absence de crédit, nous pouvons débiter mais pas créditer.
 Nous pouvons rendre inactif un client mais pas le faire devenir actif si il y a une erreur par exemple.
+C'est possible de créer un client mais pas de créer un compte.
 Cela semble aussi obligatoire pour un chef de service d'avoir la main mise sur les données mais ça n'est pas le cas.
 
 ## Analyse des besoins de la V1 et V0
 
-[Insérer ici une liste de tous les besoins fonctionnels et non fonctionnels de votre projet, y compris les fonctionnalités qui doivent être développées pour atteindre les objectifs définis.]
+En plus de la V0
+La V1 aura besoin de créer, clore et créditer un compte ( guichetier ).
+La V1 aura besoin de rendre possible les virement entre les comptes.
+La V1 aura besoin de permettre au chef d'Agence de gerer toutes les informations des employés.
 
 ## Analyse des contraintes techniques & organisationnelles
 
-[Insérer ici une liste de toutes les contraintes techniques et organisationnelles, y compris les limitations de ressources, les calendriers, les exigences légales, etc.]
+Due à notre effectif plutot reduit et à nos compétences qui ne sont pas les plus qualifiés, nous allons devoir faire d'énormes efforts pour suivre une contrainte de temps.
+Respecter la contrainte de temps tout en fournissant un travail fiable nous oblige à avoir des capacités organisationnelles puissantes.
 
