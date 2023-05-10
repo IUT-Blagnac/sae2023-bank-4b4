@@ -41,7 +41,7 @@ Dans la version existante (V0), un chef d’agence peut :
 La version initiale semble assez limitée mais elle contient des fonctionnalités nécessaires.
 Malgré tout certains problèmes sautent aux yeux tels que l'absence de crédit, nous pouvons débiter mais pas créditer.
 Nous pouvons rendre inactif un client mais pas le faire devenir actif si il y a une erreur par exemple.
-Cela semble 
+Cela semble aussi obligatoire pour un chef de service d'avoir la main mise sur les données mais ça n'est pas le cas.
 
 ## Analyse des besoins de la V1 et V0
 
