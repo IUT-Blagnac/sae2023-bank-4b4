@@ -9,12 +9,14 @@ Date : 10/05/2023
 Projet : SAE S2.01 - S2.05 Daily Bank
 
 Sommaire :
+
 1. Présentation du sujet
 2. Analyse de l'existant
 3. Analyse des besoins de la V1 et V0
 4. Analyse des contraintes techniques & organisationnelles
 
-\pagebreak
+:toc:
+
 
 ## Présentation du sujet
 
@@ -51,7 +53,7 @@ La V1 aura besoin de créer, clore et créditer un compte ( guichetier ).
 La V1 aura besoin de rendre possible les virement entre les comptes.
 La V1 aura besoin de permettre au chef d'Agence de gerer toutes les informations des employés.
 
-## Analyse des contraintes techniques & organisationnelles
+=## Analyse des contraintes techniques & organisationnelles
 
 Due à notre effectif plutot reduit et à nos compétences qui ne sont pas les plus qualifiés, nous allons devoir faire d'énormes efforts pour suivre une contrainte de temps.
 Respecter la contrainte de temps tout en fournissant un travail fiable nous oblige à avoir des capacités organisationnelles puissantes.
