@@ -1,4 +1,4 @@
-# Cahier des charges
+# Cahier des charges de Daily Bank V1 -- Gestion banquaire
 
 Version : 1.0
 
@@ -15,7 +15,7 @@ Sommaire :
 3. Analyse des besoins de la V1 et V0
 4. Analyse des contraintes techniques & organisationnelles
 
-[.page-break]
+>>>
 
 ## Présentation du sujet
 
