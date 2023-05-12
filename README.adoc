@@ -1,7 +1,10 @@
-# Exemple readme étudiant
+ReadMe etudiant
 
-==== Présentation de l'équipe et rôles respectifs
+==== Présentation de l'équipe 
 
+* Robin Fligitter
+* Cheikhouna Sale
+* Lenssy Yankam
 
 ==== Répartition des tâches et état d'avancement
 [options="header,footer"]
