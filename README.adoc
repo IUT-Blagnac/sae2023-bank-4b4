@@ -40,7 +40,7 @@ ReadMe etudiant
 [cols="1,2,2,5",options=header]
 |===
 | Date    | Nom         |  Lien                             | Retour
-| Sem.19  | CDC V1      |  Version_0/Cahier_des_Charges.adoc| 10/05/2023          
+| Sem.19  | CDC V1      |  link:Version_0/Cahier_des_Charges.adoc[Caier des Charges| 10/05/2023          
 |         |Gantt V1 Prévu|                                  |
 | 16/05  | CdC V2final|                                     |  
 |         | Gantt V1 Réalisé |                               |     
