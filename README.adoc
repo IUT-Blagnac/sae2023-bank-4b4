@@ -40,8 +40,14 @@ ReadMe etudiant
 [cols="1,2,2,5",options=header]
 |===
 | Date    | Nom         |  Lien                             | Retour
-| Sem.19  | CDC V1      |  link:Version_0/Cahier_des_Charges.adoc[Cahier des Charges]| 10/05/2023          
-|         |Gantt V1 Prévu|                                  |
+| Sem.19  | CDC V1      |  link:Version_0/Cahier_des_Charges.adoc[Cahier des Charges]| reprendre éléments et faire une vrai page de garde.
+Ajouter liens dans le sommaire.
+Manque contexte, objectifs, problématique adressée.
+affinez l'analyse de l'existant par rapport à ce qui vous a été fourni en entrant (documentation, executable ...)
+analyse du besoin: détaillez les UC V0, utilisateurs logiques, idem pour la V1, en priorisant les devs planifiés
+ajouter les dates de livraison dans contraintes orga.
+reprendre les contraintes technique / orga. Document à reprendre.      
+|         |Gantt V1 Prévu|                                  |pas de lien, pas de retour possible. Document vu à la racine du repo, a bouger. retour macro: GANTT a reprendre dans son ensemble (mise en page, enchainement des taches, charges ...)
 | 16/05  | CdC V2final|                                     |  
 |         | Gantt V1 Réalisé |                               |     
 |         | Gantt V2 Prevu|         |     
