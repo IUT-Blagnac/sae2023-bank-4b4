@@ -47,7 +47,7 @@ affinez l'analyse de l'existant par rapport à ce qui vous a été fourni en ent
 analyse du besoin: détaillez les UC V0, utilisateurs logiques, idem pour la V1, en priorisant les devs planifiés
 ajouter les dates de livraison dans contraintes orga.
 reprendre les contraintes technique / orga. Document à reprendre.      
-|         |Gantt V1 Prévu|                                  |pas de lien, pas de retour possible. Document vu à la racine du repo, a bouger. retour macro: GANTT a reprendre dans son ensemble (mise en page, enchainement des taches, charges ...)
+|         |Gantt V1 Prévu| https://github.com/IUT-Blagnac/sae2023-bank-4b4/blob/main/GANTT.pdf                                 |pas de lien, pas de retour possible. Document vu à la racine du repo, a bouger. retour macro: GANTT a reprendre dans son ensemble (mise en page, enchainement des taches, charges ...)
 | 16/05  | CdC V2final|                                     |  
 |         | Gantt V1 Réalisé |                               |     
 |         | Gantt V2 Prevu|         |     
