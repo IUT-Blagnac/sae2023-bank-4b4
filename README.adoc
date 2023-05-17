@@ -2,14 +2,12 @@ ReadMe etudiant
 
 ==== Présentation de l'équipe 
 
-* Robin Fligitter
 * Cheikhouna Sale
-* Lenssy Yankam
 
 ==== Répartition des tâches et état d'avancement
 [options="header,footer"]
 |=======================
-|version|rôle     |use case   |cas...                 |   Robin | Cheikhouna  |   Lenssy | Etudiant 4
+|version|rôle     |use case   |cas...                | Cheikhouna  |
 |1    |Chef d’Agence    |CRUD employé  |C| | | |
 |1    |Chef d’Agence    |CRUD employé  |R| | | |
 |1    |Chef d’Agence |CRUD employé  |U| | | |
