@@ -1,4 +1,4 @@
-# Cahier des charges de Daily Bank V1 -- Gestion banquaire
+# Cahier des charges de Daily Bank V2 -- Gestion banquaire
 
 Version : 1.0
 
