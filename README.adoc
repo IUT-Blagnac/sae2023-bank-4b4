@@ -7,7 +7,7 @@ ReadMe etudiant
 ==== Répartition des tâches et état d'avancement
 [options="header,footer"]
 |=======================
-|version|rôle            |use case            |cas...                        | Cheikhouna  |
+|version|rôle            |use case            |cas...                        | Cheikhouna  | ||
 |1    |Chef d’Agence    |CRUD employé  |C| | | |
 |1    |Chef d’Agence    |CRUD employé  |R| | | |
 |1    |Chef d’Agence    |CRUD employé  |U| | | |
