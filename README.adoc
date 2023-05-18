@@ -46,11 +46,11 @@ analyse du besoin: détaillez les UC V0, utilisateurs logiques, idem pour la V1,
 ajouter les dates de livraison dans contraintes orga.
 reprendre les contraintes technique / orga. Document à reprendre.      
 |         |Gantt V1 Prévu| https://github.com/IUT-Blagnac/sae2023-bank-4b4/blob/main/GANTT.pdf                                 |pas de lien, pas de retour possible. Document vu à la racine du repo, a bouger. retour macro: GANTT a reprendre dans son ensemble (mise en page, enchainement des taches, charges ...)
-| 16/05  | CdC V2final|                                     |  
-|         | Gantt V1 Réalisé |                               |     
-|         | Gantt V2 Prevu|         |     
+| 16/05  | CdC V2final|                                     |  pas de livraison
+|         | Gantt V1 Réalisé |                               |     pas de livraison
+|         | Gantt V2 Prevu|         |     pas de livraison
 |         | Doc. Tec. V1 |        |    
-|         | Doc User V1    |        |
+|         | Doc User V1    |        |pas de livraison
 |         | Recette V1  |                      | 
 |         | Suivi projet V1|   | 
 | 26/05   | Gantt V2  réalisé    |       | 
