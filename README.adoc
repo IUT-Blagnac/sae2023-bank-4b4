@@ -53,8 +53,8 @@ reprendre les contraintes technique / orga. Document à reprendre.
 |         | Doc User V1    |        |pas de livraison
 |         | Recette V1  |                      | 
 |         | Suivi projet V1|   | 
-| 26/05   | Gantt V2  réalisé    |       | 
-|         | Doc. Util. V2 |         |         
+| 26/05   | Gantt V2  réalisé    |       | pas de livraison
+|         | Doc. Util. V2 |         |         pas de livraison
 |         | Doc. Tec. V2 |                |     
 |         | Code V2    |                     | 
 |         | Recette V2 |                      | 
