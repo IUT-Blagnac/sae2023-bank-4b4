@@ -1,0 +1,59 @@
+# Cahier des charges de Daily Bank V1 -- Gestion banquaire
+
+Version : 1.0
+
+Date : 10/05/2023
+
+Équipe : Yankam -- Sale -- Fligitter
+
+Projet : SAE S2.01 - S2.05 Daily Bank
+
+Sommaire :
+
+1. Présentation du sujet
+2. Analyse de l'existant
+3. Analyse des besoins de la V1 et V0
+4. Analyse des contraintes techniques & organisationnelles
+
+>>>
+
+## Présentation du sujet
+
+Contexte : La banque DailyBank souhaite développer une application JAVA-Oracle de gestion des comptes clients pour remplacer plusieurs outils obsolètes. 
+           Ce développement s’inscrit dans le cadre de la restructuration de ses services bancaires et l’application sera déployée dans les 100 agences que compte son réseau. 
+           Nous travaillerons à partir d’une application existante « Daily Bank » qu’il faudra adapter aux nouveaux besoins de la banque.
+
+Objectifs : Proposer de nouvelles fonctionnalités à travers une 1ere version et la compléter avec une seconde et finale version.
+
+Comment restructurer les services banquaires pour combler les nouveaux besoins de la banque ?
+
+## Analyse de l'existant V0
+
+Dans la version existante (V0), un guichetier peut :
+
+  Modifier informations client (adresse, téléphone, …)
+  Créer un nouveau client
+  Consulter un compte
+  Débiter un compte (BD)
+
+Dans la version existante (V0), un chef d’agence peut :
+  Rendre inactif un client
+
+La version initiale semble assez limitée mais elle contient des fonctionnalités nécessaires.
+Malgré tout certains problèmes sautent aux yeux tels que l'absence de crédit, nous pouvons débiter mais pas créditer.
+Nous pouvons rendre inactif un client mais pas le faire devenir actif si il y a une erreur par exemple.
+C'est possible de créer un client mais pas de créer un compte.
+Cela semble aussi obligatoire pour un chef de service d'avoir la main mise sur les données mais ça n'est pas le cas.
+
+## Analyse des besoins de la V1 et V0
+
+En plus de la V0
+La V1 aura besoin de créer, clore et créditer un compte ( guichetier ).
+La V1 aura besoin de rendre possible les virement entre les comptes.
+La V1 aura besoin de permettre au chef d'Agence de gerer toutes les informations des employés.
+
+## Analyse des contraintes techniques & organisationnelles
+
+Due à notre effectif plutot reduit et à nos compétences qui ne sont pas les plus qualifiés, nous allons devoir faire d'énormes efforts pour suivre une contrainte de temps.
+Respecter la contrainte de temps tout en fournissant un travail fiable nous oblige à avoir des capacités organisationnelles puissantes.
+

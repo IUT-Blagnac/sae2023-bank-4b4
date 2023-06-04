@@ -1,0 +1,63 @@
+ReadMe etudiant
+
+==== Présentation de l'équipe 
+
+* Cheikhouna Sale
+
+==== Répartition des tâches et état d'avancement
+[options="header,footer"]
+|=======================
+|version|rôle            |use case            |cas...                        | Cheikhouna  | ||
+|1    |Chef d’Agence    |CRUD employé  |C| | | |
+|1    |Chef d’Agence    |CRUD employé  |R| | | |
+|1    |Chef d’Agence    |CRUD employé  |U| | | |
+|1    |Chef d’Agence    |CRUD employé  |D| | | |
+|1    |Guichetier       | Compte | Créer|| | | 
+|1    |Guichetier       | Compte | Créditer/Débiter|| | | 
+|1    |Guichetier       | Compte | Effectuer un virement|| | | 
+|1    |Guichetier       | Compte | Clôturer|| | | 
+|2    |Chef d’Agence    | Compte | Débit exceptionnel|| | | 
+|2    |Chef d’Agence    | Emprunt | Simuler emprunt|| | | 
+|2    |Chef d’Agence    | Emprunt | Simuler assurance|| | | 
+|2    |Guichetier       | Compte | Relevé PDF|| | | 
+|2    |Guichetier       | CRUD Prélèvement | C|| | | 
+|2    |Guichetier       | CRUD Prélèvement | R|| | | 
+|2    |Guichetier       | CRUD Prélèvement | U|| | | 
+|2    |Guichetier       | CRUD Prélèvement | D|| | | 
+|2    |Batch            | Prélèvements automatiques | || | | 
+|2    |Batch            | Reléves mensuels | || | | 
+
+|=======================
+
+
+*	*F* pour fonctionnel ou
+*	*D* pour encore en Développement
+
+==== Livrables
+
+[cols="1,2,2,5",options=header]
+|===
+| Date    | Nom         |  Lien                             | Retour
+| Sem.19  | CDC V1      |  link:Version_0/Cahier_des_Charges.adoc[Cahier des Charges]| reprendre éléments et faire une vrai page de garde.
+Ajouter liens dans le sommaire.
+Manque contexte, objectifs, problématique adressée.
+affinez l'analyse de l'existant par rapport à ce qui vous a été fourni en entrant (documentation, executable ...)
+analyse du besoin: détaillez les UC V0, utilisateurs logiques, idem pour la V1, en priorisant les devs planifiés
+ajouter les dates de livraison dans contraintes orga.
+reprendre les contraintes technique / orga. Document à reprendre.      
+|         |Gantt V1 Prévu| https://github.com/IUT-Blagnac/sae2023-bank-4b4/blob/main/GANTT.pdf                                 |pas de lien, pas de retour possible. Document vu à la racine du repo, a bouger. retour macro: GANTT a reprendre dans son ensemble (mise en page, enchainement des taches, charges ...)
+| 16/05  | CdC V2final|                                     |  pas de livraison
+|         | Gantt V1 Réalisé |                               |     pas de livraison
+|         | Gantt V2 Prevu|         |     pas de livraison
+|         | Doc. Tec. V1 |        |    
+|         | Doc User V1    |        |pas de livraison
+|         | Recette V1  |                      | 
+|         | Suivi projet V1|   | 
+| 26/05   | Gantt V2  réalisé    |       | pas de livraison
+|         | Doc. Util. V2 |         |         pas de livraison
+|         | Doc. Tec. V2 |                |     
+|         | Code V2    |                     | 
+|         | Recette V2 |                      | 
+|         | `jar` projet |    | 
+
+|===
